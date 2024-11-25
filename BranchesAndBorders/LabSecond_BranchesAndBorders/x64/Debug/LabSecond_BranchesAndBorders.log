@@ -1,0 +1,51 @@
+﻿  LabSecond_BranchesAndBorders.cpp
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(16,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(17,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(37,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(49,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(67,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(68,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(87,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(118,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(119,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(251,27): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(251,52): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(252,27): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(252,52): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(253,27): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(253,52): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(254,30): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders\LabSecond_BranchesAndBorders.cpp(254,58): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  LabSecond_BranchesAndBorders.vcxproj -> C:\Users\olegk\source\repos\LabSecond_BranchesAndBorders\x64\Debug\LabSecond_BranchesAndBorders.exe
